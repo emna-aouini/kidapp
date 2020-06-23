@@ -1,0 +1,25 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1% 5%;
+}
+.video {
+ justify-content: center;
+}
+.title {
+    justify-content: center;
+    font-weight: bold;
+    color: blue;
+    font-size: 200%;
+}
+.watchEducationVideo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5%;
+}
+.pageeducation{
+  display: flex;
+  flex-direction: column;
+}

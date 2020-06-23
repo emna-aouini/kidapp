@@ -1,0 +1,7 @@
+.cardsGames{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1% 5%;
+    justify-content: last baseline;
+    justify-items: legacy;
+}

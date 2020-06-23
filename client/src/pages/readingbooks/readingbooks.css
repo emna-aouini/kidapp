@@ -1,0 +1,12 @@
+.iframeBook {
+    max-width: 100%;
+    height: 500px;
+}
+.readigbooks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+  }
+  
